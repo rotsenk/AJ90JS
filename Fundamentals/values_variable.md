@@ -26,7 +26,7 @@ To use a variable, you've first go to create it - more accurately, we call this 
 To do this, we type keyword let followed by the name you want to call you variable:
 
 ```js
-let MyName; 
+let myName; 
 let myAge;
 ```
 
