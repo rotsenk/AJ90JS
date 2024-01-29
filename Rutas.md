@@ -55,3 +55,6 @@
 14. **Configuración de Servidores Web:**
     - *Definición:* Configuración del servidor que afecta cómo se manejan las rutas y los recursos.
     - *Ejemplo:* Configuración de redirecciones o reescritura de URL.
+
+
+> Diseño de Páginas Web. Univo 2024 - by: Nestor Rivas
